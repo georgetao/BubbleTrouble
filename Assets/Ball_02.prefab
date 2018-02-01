@@ -61,7 +61,7 @@ Rigidbody2D:
   m_Material: {fileID: 0}
   m_Interpolate: 0
   m_SleepingMode: 1
-  m_CollisionDetection: 0
+  m_CollisionDetection: 1
   m_Constraints: 0
 --- !u!58 &58154251963373538
 CircleCollider2D:
@@ -90,7 +90,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   startForce: {x: 0, y: 0}
-  nextBall: {fileID: 1801747463980414}
+  nextBall: {fileID: 1801747463980414, guid: 82ce111a7b039f742b64b176c252decd, type: 2}
   rb: {fileID: 50211796013519260}
 --- !u!212 &212899459550057474
 SpriteRenderer:
