@@ -12,8 +12,8 @@ public class Ball : MonoBehaviour {
 	void Start () {
         rb.AddForce(startForce, ForceMode2D.Impulse);
 	}
-	
-	public void Split ()
+
+    public void Split ()
     {
         if (nextBall != null)
         {
