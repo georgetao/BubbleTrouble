@@ -1,5 +1,7 @@
 # Bubble Trouble
 
+Credit to the Brackeys Youtube Channel.
+
 Arrow keys/ WASD to move left and right.
 Spacebar/ left mouse click to shoot.
 
